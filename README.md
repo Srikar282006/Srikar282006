@@ -1,4 +1,4 @@
-```md
+
 # Hi 👋, I'm Srikar Acharya Madabhushani
 
 <h3 align="center">🚀 Software Developer | AI Engineer | Full Stack Developer | GenAI Enthusiast</h3>
@@ -157,4 +157,4 @@ Passionate about building intelligent applications that combine modern web techn
 ### ⚡ Fun Fact
 
 > I enjoy blending AI + Full Stack Development to build applications that feel smart, interactive, and truly useful 🚀
-```
+
