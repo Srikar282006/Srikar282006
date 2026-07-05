@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srikar Madabhushani</h1>
-<h3 align="center">AI Engineer • Full Stack Developer • Generative AI Enthusiast</h3>
+<h3 align="center">AI Engineer • Full Stack Developer • Generative AI • AgenticAI </h3>
 
 <p align="center">
 Building intelligent applications with AI, Machine Learning, RAG Systems, and Modern Web Technologies.
